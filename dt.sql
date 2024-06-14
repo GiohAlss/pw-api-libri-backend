@@ -1,3 +1,4 @@
-create database db_libri_api;
+create database bd_libri_api;
+use bd_libri_api;
 
-use db_libri_api;
+describe tbl_livro;
